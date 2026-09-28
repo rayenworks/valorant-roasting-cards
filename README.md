@@ -2,7 +2,7 @@
 
 Enter a Valorant Riot ID and get swipeable roast cards about your rank, worst map, worst agent and overall win rate.
 
-**Live demo:** https://valorant-roasting-cards.onrender.com/
+**link:** https://valorant-roasting-cards.onrender.com/
 
 > The free host sleeps when idle, so the first load can take about a minute.
 
