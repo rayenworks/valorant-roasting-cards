@@ -6,7 +6,7 @@ Enter a Valorant Riot ID and get swipeable roast cards about your rank, worst ma
 
 > The free host sleeps when idle, so the first load can take about a minute.
 
-![Screenshot](screenshot.png)
+![Screenshot]({2F9AF2B1-E783-4F3F-9DDE-1511E7BC7BFB}.png)
 
 ## Disclaimer
 Not affiliated with Riot Games. Uses the unofficial HenrikDev API.
